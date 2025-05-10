@@ -20,7 +20,7 @@ A complete example of API reference documentation written in Markdown, including
 Step-by-step tutorial for integrating a sample SDK using clear code walkthroughs.
 
 ### 3. 📰 Blog Series – Technical Explainers  
-**View on Medium:** [medium.com/@akshatkadam](https://medium.com/@akshatkadam)  
+**View on Medium:** [medium.com/@akshatkadam](https://medium.com/@vijayakadam1547)  
 Covers technical concepts made simple: HTTP, APIs, JSON, etc.
 
 ---
@@ -31,7 +31,7 @@ I'm passionate about making complex technology easy to understand. Whether it's 
 
 📍 Location: Mumbai, India  
 🌐 Available for remote/on-site work  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/akshatkadam)
+📫 Reach me on [LinkedIn](www.linkedin.com/in/akshat-kadam-12a558283)
 
 ---
 
