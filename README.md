@@ -32,6 +32,7 @@ I'm passionate about making complex technology easy to understand. Whether it's 
 📍 Location: Mumbai, India  
 🌐 Available for remote/on-site work  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/akshatkadam)
+📫 Email me: vijayakadam1547@gmail.com
 
 ---
 
